@@ -1,0 +1,8 @@
+*.swp
+.gdb_history
+test
+build
+gmon.out
+*.vim
+trash
+*.pdf
